@@ -1,0 +1,5 @@
+Welcome to Node.js streams.
+This file is read using a Readable stream.
+The data is then written to another file using a Writable stream.
+
+Streams are memory efficient and process data in chunks.
